@@ -101,7 +101,7 @@ void getProgramOptions(int argc, char *argv[], CheckearthqParameters *p)
 	if(vm.count("help")) {
 
 		cout << visible << "\n";
-		return;
+		exit(1);
 	}
 
 	p->excl_unknown = vm.count("checkearthq.with-time") ? true : false;
