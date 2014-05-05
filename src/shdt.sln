@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qrand", "qrand\qrand.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lists", "lists\lists.vcxproj", "{D6A77AD6-01A2-4574-AB27-6A01CDFDC8AE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "check_dice", "check_dice\check_dice.vcxproj", "{FC24D868-8F78-4585-BD49-446BB91F6597}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -127,6 +129,18 @@ Global
 		{D6A77AD6-01A2-4574-AB27-6A01CDFDC8AE}.Release|Win32.Build.0 = Release|Win32
 		{D6A77AD6-01A2-4574-AB27-6A01CDFDC8AE}.Release|x64.ActiveCfg = Release|x64
 		{D6A77AD6-01A2-4574-AB27-6A01CDFDC8AE}.Release|x64.Build.0 = Release|x64
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Debug|ARM.ActiveCfg = Debug|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Debug|Win32.Build.0 = Debug|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Debug|x64.ActiveCfg = Debug|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Release|ARM.ActiveCfg = Release|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Release|Win32.ActiveCfg = Release|x64
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Release|Win32.Build.0 = Release|x64
+		{FC24D868-8F78-4585-BD49-446BB91F6597}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
