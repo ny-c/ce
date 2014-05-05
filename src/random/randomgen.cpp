@@ -103,7 +103,7 @@ namespace Random {
 	}		
 
 	/*
-	 algorithm from Ryan Reich http://stackoverflow.com/a/6852396
+	 algorithm from http://stackoverflow.com/a/6852396
 	*/
 	int RandomGen::nextInt(int min, int max)
 	{
