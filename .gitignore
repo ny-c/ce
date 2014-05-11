@@ -1,6 +1,9 @@
+src/test/*
+bin/**/test*
 bin/Win32
 bin/x64
 *.
+*.a
 *.exe
 *.sdf
 *opensdf
