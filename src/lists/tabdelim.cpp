@@ -3,6 +3,7 @@
 #include <iostream>
 #include <fstream>
 #include <exception>
+#include <stdexcept>
 #include <sstream>
 #include "tabdelim.h"
 
